@@ -3,4 +3,4 @@ Proyecto kit de inicio svelte.
 en un futuro mejorare la documentación y la descripción de cada rama.
 ahora solo me enfocare en que funcione todo.
 
-svelte-tailwind-tabler -> esta rama se enfoca en comenzar un proyecto, con tabler como inconos, tu puedes inciar el proyecto con svelte-tailwind y poder instalar la version de iconos que desees.
+svelte-tailwind-prisma-tabler -> este ya es un kit de inicio completo, que cuenta con conexiones de prisma a una base de datos mysql, apis, tailwind, iconos, etc. es un bueno inicio para cualquier proyecto. esta rama esta enfocada en poder minimizar el tiempo al momento de iniciar un proyecto.
